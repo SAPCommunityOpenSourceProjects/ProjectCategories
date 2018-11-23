@@ -1,2 +1,10 @@
-[{name:"abapgit",description:"ABAP Git",url:"https://generated.dotabap.org"},
-{name:"ui5lab",description:"UI5Lab",url:"https://ui5lab.io"}]
+[{
+		"name": "abapgit",
+		"description": "ABAP Git",
+		"url": "https://generated.dotabap.org"
+	},
+	{
+		"name": "ui5lab",
+		"description": "UI5Lab",
+		"url": "https://ui5lab.io"
+	}]
