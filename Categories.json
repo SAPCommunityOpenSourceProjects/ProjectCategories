@@ -1,10 +1,10 @@
 [{
 		"name": "abapgit",
 		"description": "ABAP Git",
-		"url": "https://generated.dotabap.org"
+		"url": "http://generated.dotabap.org/generated.json"
 	},
 	{
 		"name": "ui5lab",
 		"description": "UI5Lab",
-		"url": "https://ui5lab.io"
+		"url": "https://ui5lab.io/browser/libraries.json"
 	}]
